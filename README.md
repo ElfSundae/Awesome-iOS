@@ -120,6 +120,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) Autoscroll Banner. 无限循环图片、文字轮播器。
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 - [STPopup](https://github.com/kevin0571/STPopup) STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad.
+- [ISHPullUp](https://github.com/iosphere/ISHPullUp) Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 - [PageMenu](https://github.com/PageMenu/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
 - [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) A powerful and easy to use category view (SegmentedControl, PageControl) 分类切换滚动视图
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) 类似微博、抖音、网易云等个人详情页滑动嵌套效果
@@ -130,3 +131,4 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [Context-Menu](https://github.com/Yalantis/Context-Menu.iOS) You can easily add awesome animated context menu to your app.
 - [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
+- [ISHHoverBar](https://github.com/iosphere/ISHHoverBar) A floating UIToolBar replacement as seen in the iOS 10 Maps app, supporting both vertical and horizontal orientation.
