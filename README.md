@@ -1,4 +1,4 @@
-# Awesome iOS (Objective-C)
+# Awesome iOS
 
 A curated list of most common & awesome iOS frameworks, libraries, tools, components and much more.
 
@@ -27,8 +27,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Tools
 
-- [xcconfigs](https://github.com/jspahrsummers/xcconfigs) Common Xcode configuration files/settings.
 - [Chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
+- [xcconfigs](https://github.com/jspahrsummers/xcconfigs) Common Xcode configuration files/settings.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework.
 - [NSLogger](https://github.com/fpillet/NSLogger) A modern, flexible logging tool
 - [Flipper](https://github.com/facebook/flipper) A desktop debugging platform for mobile developers.
@@ -94,11 +94,14 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Material Components](https://github.com/material-components/material-components-ios) Material Components for iOS (MDC-iOS) helps developers execute Material Design.
 - [QMUI](https://github.com/Tencent/QMUI_iOS) QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案
 - [FlatUIKit](https://github.com/Grouper/FlatUIKit) A collection of awesome flat UI components for iOS.
+- [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
+- [MessageKit](https://github.com/MessageKit/MessageKit) A community-driven replacement for JSQMessagesViewController.
+- [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
 
 ## UI Components
 
-- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) Displays HUD
-- [MBProgressHUD](https://github.com/jdg/MBProgressHUD) Displays HUD
+- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) A clean and lightweight progress HUD for your iOS and tvOS app.
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD) an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
 - [MJRefresh](https://github.com/CoderMJLee/MJRefresh) An easy way to use pull-to-refresh.
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) Performant animated GIF engine for iOS
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
@@ -110,9 +113,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [BButton](https://github.com/jessesquires/BButton) Twitter Bootstrap buttons for iOS.
 - [TORoundedButton](https://github.com/TimOliver/TORoundedButton) A high-performance button control with rounded corners for iOS.
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) Flat button with 9 different states using POP
-- [MessageKit](https://github.com/MessageKit/MessageKit) A community-driven replacement for JSQMessagesViewController.
-- [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
-- [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [Lottie](https://github.com/airbnb/lottie-ios) **[Swift]** An iOS library to natively render After Effects vector animations
