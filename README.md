@@ -74,6 +74,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) Asynchronous image downloader with cache support as a UIImageView category.
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) Asynchronous socket networking library for Mac and iOS.
 - [SocketRocket](https://github.com/facebook/SocketRocket) A conforming Objective-C WebSocket client library.
+- [Mars](https://github.com/Tencent/mars) Mars is a cross-platform network component developed by WeChat.
 
 ## Data/File Archive & Unarchive
 
@@ -103,6 +104,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MessageKit](https://github.com/MessageKit/MessageKit) A community-driven replacement for JSQMessagesViewController.
 - [NIM_iOS_UIKit](https://github.com/netease-im/NIM_iOS_UIKit) 网易云信 iOS UI 组件，提供聊天界面，文本消息，图片消息，语音消息，视频消息，地理位置消息，自定义消息（阅后即焚）等消息示例
 - [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。
+- [Wildfirechat Chat](https://github.com/wildfirechat/ios-chat) 全开源的即时通讯(野火IM)系统 高仿微信
+- [TLChat](https://github.com/tbl00c/TLChat) 高仿微信，iOSAppTemplate代码重构。此版本TLChat基于TLKit、 ZZFLEX实现.
+- [YHFlutterAdapter](https://github.com/jiisd/YHFlutterAdapter) 三行代码组件化集成 Flutter！可用于已有 iOS 项目，对原工程无侵入，无需更改原项目配置，集成后可直接以组件形式开发 Flutter 业务。
 
 ## UI Components
 
@@ -148,6 +152,12 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) A view controller for iOS that allows users to crop portions of UIImage objects.
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) iOS自定义导航栏-导航栏联动
+- [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
+- [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
+- [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) A beautiful photo browser with interactive dismissal animation.一个小而美的图片浏览器。
+- [PhotoBrowser](https://github.com/cuzv/PhotoBrowser) PhotoBrowser is a light weight photo browser, like the wechat, weibo image viewer.
+- [PYPhotoBrowser](https://github.com/ko1o/PYPhotoBrowser) An easy way to browse photo(image) for iOS.
+- [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) 照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）
 
 ## UI Effects
 
