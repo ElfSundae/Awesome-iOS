@@ -12,6 +12,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Data/File Archive & Unarchive](#datafile-archive--unarchive)
 - [UI Frameworks](#ui-frameworks)
 - [UI Components](#ui-components)
+- [UI Effects](#ui-effects)
 - [Media](#media)
 
 <!-- /MarkdownTOC -->
@@ -99,7 +100,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Material Components](https://github.com/material-components/material-components-ios) Material Components for iOS (MDC-iOS) helps developers execute Material Design.
 - [QMUI](https://github.com/Tencent/QMUI_iOS) QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案
 - [FlatUIKit](https://github.com/Grouper/FlatUIKit) A collection of awesome flat UI components for iOS.
-- [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
 - [MessageKit](https://github.com/MessageKit/MessageKit) A community-driven replacement for JSQMessagesViewController.
 - [NIM_iOS_UIKit](https://github.com/netease-im/NIM_iOS_UIKit) 网易云信 iOS UI 组件，提供聊天界面，文本消息，图片消息，语音消息，视频消息，地理位置消息，自定义消息（阅后即焚）等消息示例
 - [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。
@@ -112,8 +112,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) Performant animated GIF engine for iOS
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 - [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-- [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
-- [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) iOS自定义交互式转场动画-仿微信图片浏览器转场动画、仿iOS系统相册图片浏览转场动画、仿酷狗转场动画 + 交互式图片浏览器
 - [XLForm](https://github.com/xmartlabs/XLForm) XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) Simple, quick iOS tables, grids, and more
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) Easily add in-app settings to your iPhone apps.
@@ -124,7 +122,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
-- [Lottie](https://github.com/airbnb/lottie-ios) **[Swift]** An iOS library to natively render After Effects vector animations
+- [AnimatedField](https://github.com/alberdev/AnimatedField) Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) A custom UIView useful to represent progress in discrete steps.
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) Autoscroll Banner. 无限循环图片、文字轮播器。
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
@@ -147,9 +145,18 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 - [ISHHoverBar](https://github.com/iosphere/ISHHoverBar) A floating UIToolBar replacement as seen in the iOS 10 Maps app, supporting both vertical and horizontal orientation.
 - [ScanQRcode](https://github.com/wsl2ls/ScanQRcode) 在利用原生API的条件下封装的二维码扫描工具，支持二维码的扫描、识别图中二维码、生成自定义颜色和中心图标的二维码、监测环境亮度、打开闪光灯这些功能，仿照微信的扫一扫功能。
+- [TOCropViewController](https://github.com/TimOliver/TOCropViewController) A view controller for iOS that allows users to crop portions of UIImage objects.
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) iOS自定义导航栏-导航栏联动
+
+## UI Effects
+
 - [BBGestureBack](https://github.com/Bonway/BBGestureBack) Full screen return gesture（全屏手势返回 滑动返回 pop 动画效果）类淘宝、京东等全屏滑动返回效果
+- [TABAnimated](https://github.com/tigerAndBull/TABAnimated) A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持自定制动画。)
+- [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
+- [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) iOS自定义交互式转场动画-仿微信图片浏览器转场动画、仿iOS系统相册图片浏览转场动画、仿酷狗转场动画 + 交互式图片浏览器
+- [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
+- [Lottie](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations
 
 ## Media
 
@@ -158,6 +165,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
 - [PBJVision](https://github.com/piemonte/PBJVision)  iOS Media Capture – features touch-to-record video, slow motion, and photography
 - [ijkplayer](https://github.com/bilibili/ijkplayer) Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [GoPlay](https://github.com/dKingbin/GoPlay) GoPlay is a media player framework for iOS. Based on FFmpeg and OpenGL ES 2.0. support all formats and custom your own filters by GLSL.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [novocaine](https://github.com/alexbw/novocaine) An analgesic for high-performance audio on iOS and OSX.
 - [WAVideoBox](https://github.com/CoderHenry66/WAVideoBox) 秒级! 三行代码实现iOS视频压缩、变速、混音、合并、GIF水印、旋转、换音、裁剪 ! 支持不同分辩率，支持你能想到的各种混合操作!
