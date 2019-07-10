@@ -63,6 +63,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) A fast, convenient and nonintrusive conversion framework between JSON and model.
 - [WCDB](https://github.com/Tencent/wcdb) WCDB is a cross-platform database framework developed by WeChat.
 - [FMDB](https://github.com/ccgus/fmdb) A Cocoa / Objective-C wrapper around SQLite.
+- [JQFMDB](https://github.com/gaojunquan/JQFMDB) FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
 - [protobuf](https://developers.google.com/protocol-buffers/) Protocol Buffers - Google's data interchange format.
 - [SAMKeychain](https://github.com/soffes/SAMKeychain) Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 - [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
@@ -119,6 +120,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [XLForm](https://github.com/xmartlabs/XLForm) XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) Simple, quick iOS tables, grids, and more
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) Easily add in-app settings to your iPhone apps.
+- [LYEmptyView](https://github.com/dev-liyang/LYEmptyView) 一行代码集成空白页面占位图(无数据、无网络占位图)
 - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
 - [BButton](https://github.com/jessesquires/BButton) Twitter Bootstrap buttons for iOS.
 - [TORoundedButton](https://github.com/TimOliver/TORoundedButton) A high-performance button control with rounded corners for iOS.
@@ -136,6 +138,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ISHPullUp](https://github.com/iosphere/ISHPullUp) Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 - [PageMenu](https://github.com/PageMenu/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
 - [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)
+- [SGPagingView](https://github.com/kingsic/SGPagingView) A powerful and easy to use segment control 【QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图】
 - [TYPagerController](https://github.com/12207480/TYPagerController) page scroll view and controller,simple,high custom,and have many tabBar styles,,support Objective-C and swift
 - [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) 特斯拉组件、QQ联系人布局、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) 类似微博、抖音、网易云等个人详情页滑动嵌套效果
@@ -153,6 +156,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) iOS自定义导航栏-导航栏联动
 - [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
+- [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) iOS 图片浏览器 (支持视频) / image browser (support video)
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
 - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) A beautiful photo browser with interactive dismissal animation.一个小而美的图片浏览器。
 - [PhotoBrowser](https://github.com/cuzv/PhotoBrowser) PhotoBrowser is a light weight photo browser, like the wechat, weibo image viewer.
