@@ -56,6 +56,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PromiseKit](https://github.com/mxcl/PromiseKit) Promises for Swift & ObjC.
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) A polite and unified way of asking for permission on iOS.
+- [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
 
 ## Database, Model, Cache
 
