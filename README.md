@@ -33,6 +33,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 ## Tools
 
 - [Chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
+- [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) Common Xcode configuration files/settings.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework.
 - [NSLogger](https://github.com/fpillet/NSLogger) A modern, flexible logging tool
