@@ -130,6 +130,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
+- [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
 - [AnimatedField](https://github.com/alberdev/AnimatedField) Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) A custom UIView useful to represent progress in discrete steps.
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) Autoscroll Banner. 无限循环图片、文字轮播器。
