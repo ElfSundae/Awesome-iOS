@@ -131,6 +131,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
+- [InputKit](https://github.com/tingxins/InputKit) InputKit, an Elegant Kit to limits your input text, inspired by BlocksKit, written in both Objective-C & ⚡️Swift.
 - [AnimatedField](https://github.com/alberdev/AnimatedField) Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) A custom UIView useful to represent progress in discrete steps.
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) Autoscroll Banner. 无限循环图片、文字轮播器。
@@ -165,6 +166,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PhotoBrowser](https://github.com/cuzv/PhotoBrowser) PhotoBrowser is a light weight photo browser, like the wechat, weibo image viewer.
 - [PYPhotoBrowser](https://github.com/ko1o/PYPhotoBrowser) An easy way to browse photo(image) for iOS.
 - [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) 照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）
+- [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 
 ## UI Effects
 
