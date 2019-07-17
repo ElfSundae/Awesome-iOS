@@ -42,6 +42,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) Find memory leaks in your iOS app at develop time.
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) An iOS library that finds retain cycles using runtime analysis.
 - [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) Optimizing UITableViewCell For Fast Scrolling
+- [LSSafeProtector](https://github.com/lsmakethebest/LSSafeProtector) 强大的防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash
 - [JSPatch](https://github.com/bang590/JSPatch) JSPatch bridge Objective-C and Javascript using the Objective-C runtime.
 - [ANYMethodLog](https://github.com/qhd/ANYMethodLog) Log any method call of object in Objective-C 打印 Objective-C 对象中的任何方法
 - [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
