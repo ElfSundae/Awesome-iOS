@@ -63,6 +63,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LocationManager](https://github.com/intuit/LocationManager) Easily get the device's current location on iOS.
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
 - [BeeHive](https://github.com/alibaba/BeeHive) 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
+- [MMWormhole](https://github.com/mutualmobile/MMWormhole) Message passing between iOS apps and extensions.
 
 ## Database, Model, Cache
 
