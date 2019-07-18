@@ -60,6 +60,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) A polite and unified way of asking for permission on iOS.
 - [TDTouchID](https://github.com/greezi/TDTouchID) TDTouchID是一个封装好的指纹验证库,可以用来做iOSAPP的登录/支付等验证。
+- [LocationManager](https://github.com/intuit/LocationManager) Easily get the device's current location on iOS.
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
 - [BeeHive](https://github.com/alibaba/BeeHive) 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 
