@@ -128,6 +128,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [XLForm](https://github.com/xmartlabs/XLForm) XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) Simple, quick iOS tables, grids, and more
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) Easily add in-app settings to your iPhone apps.
+- [SCIndexView](https://github.com/TalkingJourney/SCIndexView) SCIndexView provide a index view like Wechat.
 - [LYEmptyView](https://github.com/dev-liyang/LYEmptyView) 一行代码集成空白页面占位图(无数据、无网络占位图)
 - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
 - [BButton](https://github.com/jessesquires/BButton) Twitter Bootstrap buttons for iOS.
@@ -181,6 +182,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
 - [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) iOS自定义交互式转场动画-仿微信图片浏览器转场动画、仿iOS系统相册图片浏览转场动画、仿酷狗转场动画 + 交互式图片浏览器
 - [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
+- [LiveSendGift](https://github.com/Jonhory/LiveSendGift) 直播发送弹幕效果
 - [Lottie](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations
 
 ## Media
