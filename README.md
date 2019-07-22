@@ -139,6 +139,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
+- [PPNumberButton](https://github.com/jkpang/PPNumberButton) iOS中一款高度可定制性商品计数按钮(京东/淘宝/饿了么/美团外卖/百度外卖样式)
 - [InputKit](https://github.com/tingxins/InputKit) InputKit, an Elegant Kit to limits your input text, inspired by BlocksKit, written in both Objective-C & ⚡️Swift.
 - [AnimatedField](https://github.com/alberdev/AnimatedField) Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) A custom UIView useful to represent progress in discrete steps.
@@ -156,6 +157,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) 类似微博、抖音、网易云等个人详情页滑动嵌套效果
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) 快速集成 popupMenu
 - [CustomPopoverView](https://github.com/maltsugar/CustomPopoverView) Custom popover view
+- [zhPopupController](https://github.com/snail-z/zhPopupController) Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
 - [LNPopupController](https://github.com/LeoNatan/LNPopupController) LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 - [DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) DOPDropDownMenu 添加双列表 优化版 新增图片支持
 - [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) Cocoa UI component for group or private chat bubbles with text, images and audio support
@@ -176,6 +178,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PYPhotoBrowser](https://github.com/ko1o/PYPhotoBrowser) An easy way to browse photo(image) for iOS.
 - [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) 照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）
 - [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
+- [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically
+- [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) Template auto layout cell for automatically UITableViewCell height calculating
 
 ## UI Effects
 
@@ -186,6 +190,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
 - [LiveSendGift](https://github.com/Jonhory/LiveSendGift) 直播发送弹幕效果
 - [Lottie](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations
+- [iOS-Modal](https://github.com/xiaopin/iOS-Modal) iOS 模态窗口，内置类似淘宝添加购物车的模态视图动画，内部使用 iOS8 推出的UIPresentationController来实现模态窗口功能。
 
 ## Media
 
