@@ -168,6 +168,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) iOS自定义导航栏-导航栏联动
 - [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
+- [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser) 微信 和 微博 图片浏览器, UIViewControlelr + CollectionView , 完美适配 iPhone 以及 各种 iPad ,屏幕旋转功能 , 适配SDWebImage 5.0
 - [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) iOS 图片浏览器 (支持视频) / image browser (support video)
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
 - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) A beautiful photo browser with interactive dismissal animation.一个小而美的图片浏览器。
