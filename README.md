@@ -155,6 +155,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TYPagerController](https://github.com/12207480/TYPagerController) page scroll view and controller,simple,high custom,and have many tabBar styles,,support Objective-C and swift
 - [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) 特斯拉组件、QQ联系人布局、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) 类似微博、抖音、网易云等个人详情页滑动嵌套效果
+- [FFPopup](https://github.com/JonyFang/FFPopup) Presenting custom views as a popup in iOS.
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) 快速集成 popupMenu
 - [CustomPopoverView](https://github.com/maltsugar/CustomPopoverView) Custom popover view
 - [zhPopupController](https://github.com/snail-z/zhPopupController) Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
@@ -180,12 +181,14 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 - [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically
 - [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) Template auto layout cell for automatically UITableViewCell height calculating
+- [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 
 ## UI Effects
 
 - [BBGestureBack](https://github.com/Bonway/BBGestureBack) Full screen return gesture（全屏手势返回 滑动返回 pop 动画效果）类淘宝、京东等全屏滑动返回效果
 - [TABAnimated](https://github.com/tigerAndBull/TABAnimated) A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持自定制动画。)
 - [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
+- [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
 - [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) iOS自定义交互式转场动画-仿微信图片浏览器转场动画、仿iOS系统相册图片浏览转场动画、仿酷狗转场动画 + 交互式图片浏览器
 - [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) Render After Effects / Animate CC (Flash) animations natively.
 - [LiveSendGift](https://github.com/Jonhory/LiveSendGift) 直播发送弹幕效果
