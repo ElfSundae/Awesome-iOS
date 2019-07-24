@@ -22,12 +22,14 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 - [iOS LibHunt](https://ios.libhunt.com)
 - [GitHub Objective-C Topics](https://github.com/topics/objective-c)
-- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Open source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Open source macOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) iOS开发常用三方库、插件、知名博客等
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 - [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 - [iOS 资源大全中文版](https://github.com/duzhi5368/AwesomeAllInOne/wiki/iOS-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88)
+- [掘金翻译计划](https://github.com/xitu/gold-miner) 一个翻译优质互联网技术文章的社区
 - [Flat UI Colors](https://flatuicolors.com)
 
 ## Tools
