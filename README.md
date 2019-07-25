@@ -35,6 +35,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Tools
 
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A command line tool written in Swift that generates your Xcode project using your folder structure and a project spec.
 - [fastlane](https://fastlane.tools) - The easiest way to automate building and releasing your iOS and Android apps.
 - [Chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) - LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
