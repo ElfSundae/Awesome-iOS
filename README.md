@@ -7,7 +7,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Websites](#websites)
 - [Tools](#tools)
 - [Foundation](#foundation)
-- [Database, Model, Cache](#database-model-cache)
+- [Database, ORM, Cache](#database-orm-cache)
 - [Networking](#networking)
 - [Data/File Archive & Unarchive](#datafile-archive--unarchive)
 - [UI Frameworks](#ui-frameworks)
@@ -39,6 +39,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) - LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
+- [Space Commander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C as a team without even trying.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
 - [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
 - [Flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
@@ -71,8 +72,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 - [BeeHive](https://github.com/alibaba/BeeHive) - 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
+- [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions
 
-## Database, Model, Cache
+## Database, ORM, Cache
 
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model.
@@ -133,6 +135,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 - [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
+- [Harpy](https://github.com/ArtSabintsev/Harpy) - Notify users when a new version of your app is available and prompt them to upgrade.
+- [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
+- [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) - Infinite scroll implementation as a category for UIScrollView.
 - [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) - Simple, quick iOS tables, grids, and more
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - Easily add in-app settings to your iPhone apps.
@@ -167,6 +172,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [CustomPopoverView](https://github.com/maltsugar/CustomPopoverView) - Custom popover view
 - [zhPopupController](https://github.com/snail-z/zhPopupController) - Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
 - [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+- [HWPanModal](https://github.com/HeathWang/HWPanModal) - presents controller from bottom and drag to dismiss, high customize. 实现任意形式的底部弹框；知乎、抖音弹出评论效果。
+- [HWPopController](https://github.com/HeathWang/HWPopController) - Popup UIViewController with multiple animations
 - [DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) - DOPDropDownMenu 添加双列表 优化版 新增图片支持
 - [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - Cocoa UI component for group or private chat bubbles with text, images and audio support
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
