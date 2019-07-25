@@ -19,21 +19,23 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Websites
 
-- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
-- [iOS LibHunt](https://ios.libhunt.com)
+- [Cocoa Controls](https://www.cocoacontrols.com) - Lists custom controls and views for iOS and macOS
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+- [iOS LibHunt](https://ios.libhunt.com) - Your go-to iOS Toolbox
 - [GitHub Objective-C Topics](https://github.com/topics/objective-c)
 - [Open source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [Open source macOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) iOS开发常用三方库、插件、知名博客等
+- [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 - [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 - [iOS 资源大全中文版](https://github.com/duzhi5368/AwesomeAllInOne/wiki/iOS-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88)
-- [掘金翻译计划](https://github.com/xitu/gold-miner) 一个翻译优质互联网技术文章的社区
-- [Flat UI Colors](https://flatuicolors.com)
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 一个翻译优质互联网技术文章的社区
+- [Flat UI Colors](https://flatuicolors.com) - 280 handpicked colors ready for COPY & PASTE
 
 ## Tools
 
+- [fastlane](https://fastlane.tools) The easiest way to automate building and releasing your iOS and Android apps.
 - [Chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) Common Xcode configuration files/settings.
@@ -65,6 +67,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TDTouchID](https://github.com/greezi/TDTouchID) TDTouchID是一个封装好的指纹验证库,可以用来做iOSAPP的登录/支付等验证。
 - [LocationManager](https://github.com/intuit/LocationManager) Easily get the device's current location on iOS.
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
+- [JLRoutes](https://github.com/joeldev/JLRoutes) URL routing library for iOS with a simple block-based API
+- [DeepLinkKit](https://github.com/button/DeepLinkKit) A splendid route-matching, block-based way to handle your deep links.
 - [BeeHive](https://github.com/alibaba/BeeHive) 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) Message passing between iOS apps and extensions.
 
@@ -109,6 +113,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) Smooth asynchronous user interfaces for iOS apps.
 - [ComponentKit](https://github.com/facebook/componentkit) ComponentKit is an Objective-C++ view framework for iOS that is heavily inspired by React.
 - [Pop](https://github.com/facebook/pop) An extensible iOS and OS X animation library, useful for physics-based interactions.
+- [FastImageCache](https://github.com/path/FastImageCache) [_DEAD_] [Mallory's fork](https://github.com/mallorypaine/FastImageCache) - iOS library for quickly displaying images while scrolling
 - [Yoga](https://github.com/facebook/yoga) Yoga is a cross-platform layout engine which implements Flexbox.
 - [Material Components](https://github.com/material-components/material-components-ios) Material Components for iOS (MDC-iOS) helps developers execute Material Design.
 - [QMUI](https://github.com/Tencent/QMUI_iOS) QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案
@@ -184,6 +189,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically
 - [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) Template auto layout cell for automatically UITableViewCell height calculating
 - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) The waterfall (i.e., Pinterest-like) layout for UICollectionView.
+- [FDWaveformView](https://github.com/fulldecent/FDWaveformView) Reads an audio file and displays the waveform
+- [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) A drop-in universal library allows to record audio within the app with a nice User Interface.
 
 ## UI Effects
 
