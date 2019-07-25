@@ -40,6 +40,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) - LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 - [Space Commander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C as a team without even trying.
+- [OCLint](http://oclint.org) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
 - [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
 - [Flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
@@ -138,6 +139,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Harpy](https://github.com/ArtSabintsev/Harpy) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 - [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) - Infinite scroll implementation as a category for UIScrollView.
+- [ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control.
 - [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) - Simple, quick iOS tables, grids, and more
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - Easily add in-app settings to your iPhone apps.
