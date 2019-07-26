@@ -107,6 +107,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 ## UI Frameworks
 
 - [Masonry](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.
+- [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - One line of code to implement automatic layout. 一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。
 - [Material Components](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components for iOS
 - [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [Chameleon](https://github.com/viccalexander/Chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
