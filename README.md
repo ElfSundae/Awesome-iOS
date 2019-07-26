@@ -207,6 +207,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## UI Effects
 
+- [HHTransition](https://github.com/yuwind/HHTransition) - 主流转场动画，无侵入，API简单易用。
+- [NNNavigationBar](https://github.com/amisare/NNNavigationBar) - 实现导航条背景渐变过渡动画的轻量级框架
 - [BBGestureBack](https://github.com/Bonway/BBGestureBack) - Full screen return gesture（全屏手势返回 滑动返回 pop 动画效果）类淘宝、京东等全屏滑动返回效果
 - [TABAnimated](https://github.com/tigerAndBull/TABAnimated) - A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持自定制动画。)
 - [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - A gallery app of custom animated transitions for iOS.
