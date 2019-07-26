@@ -91,6 +91,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework.
 - [ESAPIClient](https://github.com/ElfSundae/ESAPIClient) - An API client library built on top of AFNetworking and AFNetworkingExtension.
+- [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - A high level request util based on AFNetworking
+- [YBNetwork](https://github.com/indulgeIn/YBNetwork) - 基于 AFNetworking 网络中间层，注重性能，设计简洁，易于拓展
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category.
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
 - [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -156,6 +158,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
+- [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) - UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
 - [PPNumberButton](https://github.com/jkpang/PPNumberButton) - iOS中一款高度可定制性商品计数按钮(京东/淘宝/饿了么/美团外卖/百度外卖样式)
 - [InputKit](https://github.com/tingxins/InputKit) - InputKit, an Elegant Kit to limits your input text, inspired by BlocksKit, written in both Objective-C & ⚡️Swift.
