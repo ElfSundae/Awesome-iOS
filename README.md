@@ -148,6 +148,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control.
 - [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [MGBoxKit](https://github.com/sobri909/MGBoxKit) - Simple, quick iOS tables, grids, and more
+- [UFKit](https://github.com/czl620/UFKit) - 快速集成表单
 - [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - Easily add in-app settings to your iPhone apps.
 - [SCIndexView](https://github.com/TalkingJourney/SCIndexView) - SCIndexView provide a index view like Wechat.
 - [LYEmptyView](https://github.com/dev-liyang/LYEmptyView) - 一行代码集成空白页面占位图(无数据、无网络占位图)
