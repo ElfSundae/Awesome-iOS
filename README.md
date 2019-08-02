@@ -213,6 +213,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ZLCollectionView](https://github.com/czl0325/ZLCollectionView) - 为应对类似淘宝首页，京东首页，国美首页的复杂布局而写的多样化的UICollectionView
 - [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
 - [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - A drop-in universal library allows to record audio within the app with a nice User Interface.
+- [HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页
 
 ## UI Effects
 
