@@ -180,6 +180,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SGPagingView](https://github.com/kingsic/SGPagingView) - A powerful and easy to use segment control 【QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图】
 - [TYPagerController](https://github.com/12207480/TYPagerController) - page scroll view and controller,simple,high custom,and have many tabBar styles,,support Objective-C and swift
 - [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) - 特斯拉组件、QQ联系人布局、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图
+- [WMPageController](https://github.com/wangmchn/WMPageController) - An easy solution to page controllers like NetEase News
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - 类似微博、抖音、网易云等个人详情页滑动嵌套效果
 - [FFPopup](https://github.com/JonyFang/FFPopup) - Presenting custom views as a popup in iOS.
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) - 快速集成 popupMenu
