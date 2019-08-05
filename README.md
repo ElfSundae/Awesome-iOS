@@ -172,6 +172,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 - [LCActionSheet](https://github.com/iTofu/LCActionSheet) - 一款简约而不失强大的 ActionSheet，微博、微信和 QQ 都采用了极其类似的样式，完全支持 Swift。
 - [SPAlertController](https://github.com/SPStore/SPAlertController) - 提醒对话框，风格和微信原生几乎零误差。
+- [RMActionController](https://github.com/CooperRS/RMActionController) - This is an iOS control for presenting any UIView in an UIAlertController like manner
 - [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad.
 - [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 - [PageMenu](https://github.com/PageMenu/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
