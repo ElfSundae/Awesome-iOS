@@ -111,6 +111,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 - [Masonry](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.
 - [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - One line of code to implement automatic layout. 一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。
+- [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - iOS/Mac OS X平台上目前使用最简单开发构建UI速度最快的自动布局开源库，强悍的动态布局约束处理能力
 - [Material Components](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components for iOS
 - [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [Chameleon](https://github.com/viccalexander/Chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
@@ -184,6 +185,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - 类似微博、抖音、网易云等个人详情页滑动嵌套效果
 - [FFPopup](https://github.com/JonyFang/FFPopup) - Presenting custom views as a popup in iOS.
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) - 快速集成 popupMenu
+- [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu) - FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use
 - [CustomPopoverView](https://github.com/maltsugar/CustomPopoverView) - Custom popover view
 - [zhPopupController](https://github.com/snail-z/zhPopupController) - Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
 - [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
