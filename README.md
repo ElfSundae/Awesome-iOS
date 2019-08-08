@@ -80,6 +80,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Database, ORM, Cache
 
+- [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model.
 - [WCDB](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
