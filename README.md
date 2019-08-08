@@ -201,6 +201,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [Context-Menu](https://github.com/Yalantis/Context-Menu.iOS) - You can easily add awesome animated context menu to your app.
 - [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
+- [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController) - Implicitly make every view controller has its own navigation bar
 - [ISHHoverBar](https://github.com/iosphere/ISHHoverBar) - A floating UIToolBar replacement as seen in the iOS 10 Maps app, supporting both vertical and horizontal orientation.
 - [ScanQRcode](https://github.com/wsl2ls/ScanQRcode) - 在利用原生API的条件下封装的二维码扫描工具，支持二维码的扫描、识别图中二维码、生成自定义颜色和中心图标的二维码、监测环境亮度、打开闪光灯这些功能，仿照微信的扫一扫功能。
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects.
