@@ -39,6 +39,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [fastlane](https://fastlane.tools) - The easiest way to automate building and releasing your iOS and Android apps.
 - [Chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) - LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
+- [JSDebugger](https://github.com/SatanWoo/JSDebugger) - JavaScript-Based Debugger For Inspecting Running State Of Your Application
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) - In-App debug console for your UIWebView & WKWebView
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 - [Space Commander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C as a team without even trying.
