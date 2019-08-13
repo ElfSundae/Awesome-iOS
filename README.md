@@ -230,6 +230,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
 - [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - A drop-in universal library allows to record audio within the app with a nice User Interface.
 - [HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页
+- [AAChartKit](https://github.com/AAChartModel/AAChartKit) - An elegant and friendly chart library for iOS
 
 ## UI Effects
 
