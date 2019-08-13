@@ -49,6 +49,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [FLEX (Flipboard Explorer)](https://github.com/Flipboard/FLEX) - A set of in-app debugging and exploration tools for iOS development.
 - [Aspects](https://github.com/steipete/Aspects) - Delightful, simple library for aspect oriented programming in Objective-C and Swift.
+- [Stinger](https://github.com/eleme/Stinger) - Stinger is a high-efficiency library with great compatibility, for aop in Objective-C, using libffi.
 - [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - An iOS library that finds retain cycles using runtime analysis.
 - [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling
