@@ -169,6 +169,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
+- [GrowTextView](https://github.com/jalyResource/GrowTextView) - 一个比较完美的高度自适应输入框
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) - UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
 - [CRBoxInputView](https://github.com/CRAnimation/CRBoxInputView) - Verify code input view. Support security type for password.短信验证码输入框，支持密文模式
 - [WLUnitField](https://github.com/zhwayne/WLUnitField) - 一种验证码输入 UI 控件
