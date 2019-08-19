@@ -232,6 +232,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - A drop-in universal library allows to record audio within the app with a nice User Interface.
 - [HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页
 - [AAChartKit](https://github.com/AAChartModel/AAChartKit) - An elegant and friendly chart library for iOS
+- [WMDragView](https://github.com/zhengwenming/WMDragView) - WMDragView致力于让任意View都可以自由悬浮拖曳（可拖动，悬浮按钮），类似于iOS的AssistiveTouch效果，微信浮窗
 
 ## UI Effects
 
