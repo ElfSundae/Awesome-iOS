@@ -67,6 +67,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Nimbus](https://github.com/jverkoey/nimbus) - Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
 - [YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing.
+- [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 - [NullSafe](https://github.com/nicklockwood/NullSafe) - NullSafe is a simple category on NSNull that returns nil for unrecognised messages instead of throwing an exception
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
