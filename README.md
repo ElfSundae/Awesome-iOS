@@ -45,7 +45,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 - [Space Commander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C as a team without even trying.
 - [OCLint](http://oclint.org) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
-- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
 - [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
 - [Flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [FLEX (Flipboard Explorer)](https://github.com/Flipboard/FLEX) - A set of in-app debugging and exploration tools for iOS development.
@@ -67,6 +66,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ESFramework](https://github.com/ElfSundae/ESFramework) - ESFramework is an efficient, small framework for iOS, macOS, watchOS, and tvOS.
 - [Nimbus](https://github.com/jverkoey/nimbus) - Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
 - [YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
+- [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol!
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing.
 - [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 - [NullSafe](https://github.com/nicklockwood/NullSafe) - NullSafe is a simple category on NSNull that returns nil for unrecognised messages instead of throwing an exception
@@ -81,6 +82,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [BeeHive](https://github.com/alibaba/BeeHive) - 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
 - [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions
+- [YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler) - iOS task scheduler, reduce the burden of CPU and memory. / iOS 任务调度器，为 CPU 和内存减负（用于性能优化）
 
 ## Database, ORM, Cache
 
@@ -106,6 +108,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
 - [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
 - [Mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component developed by WeChat.
+- [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
 
 ## Data/File Archive & Unarchive
 
@@ -114,6 +117,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LzmaSDKObjC](https://github.com/OlehKulykov/LzmaSDKObjC) - Lzma SDK for Swift and Objective-C ( iOS & MacOS ) based on extended functionality of the C++ LZMA SDK code.
 - [UnrarKit](https://github.com/abbeycode/UnrarKit) - Easily read RAR archives on Mac and iOS
 - [SARUnArchiveANY](https://github.com/saru2020/SARUnArchiveANY) - A very useful library for Unarchiving the .zip, .rar, .7z files for iOS.
+- [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - Encrypt/Decrypt: AES. Hash: MD5, SHA(SHA1, SHA224, SHA256, SHA384, SHA512). Encode/Decode: Base64, Hex.
 
 ## UI Frameworks
 
@@ -164,6 +168,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
 - [BButton](https://github.com/jessesquires/BButton) - Twitter Bootstrap buttons for iOS.
 - [TORoundedButton](https://github.com/TimOliver/TORoundedButton) - A high-performance button control with rounded corners for iOS.
+- [HJCornerRadius](https://github.com/panghaijiao/HJCornerRadius) - A category for UIImageView with support for cornerRadius automatically
+- [HYBImageCliped](https://github.com/CoderJackyHuang/HYBImageCliped) - 高效处理圆角的扩展
 - [YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states using POP
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Beautiful, highly customizable, animated checkboxes for iOS.
@@ -211,6 +217,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 - [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController) - Implicitly make every view controller has its own navigation bar
 - [ISHHoverBar](https://github.com/iosphere/ISHHoverBar) - A floating UIToolBar replacement as seen in the iOS 10 Maps app, supporting both vertical and horizontal orientation.
+- [LBXScan](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装)
 - [ScanQRcode](https://github.com/wsl2ls/ScanQRcode) - 在利用原生API的条件下封装的二维码扫描工具，支持二维码的扫描、识别图中二维码、生成自定义颜色和中心图标的二维码、监测环境亮度、打开闪光灯这些功能，仿照微信的扫一扫功能。
 - [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects.
@@ -237,6 +244,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [AAChartKit](https://github.com/AAChartModel/AAChartKit) - An elegant and friendly chart library for iOS
 - [WMDragView](https://github.com/zhengwenming/WMDragView) - WMDragView致力于让任意View都可以自由悬浮拖曳（可拖动，悬浮按钮），类似于iOS的AssistiveTouch效果，微信浮窗
 - [LEEAlert](https://github.com/lixiang1994/LEEAlert) - 优雅的可自定义 Alert ActionSheet
+- [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner) - An iOS activity spinner modeled after Google's Material Design Spinner
 
 ## UI Effects
 
@@ -252,6 +260,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果
 - [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 - [iOS-Modal](https://github.com/xiaopin/iOS-Modal) - iOS 模态窗口，内置类似淘宝添加购物车的模态视图动画，内部使用 iOS8 推出的UIPresentationController来实现模态窗口功能。
+- [DYFBlurEffect](https://github.com/dgynfi/DYFBlurEffect) - 一行代码实现图像模糊化，并支持系统UIVisualEffectView
+- [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - LMDropdownView is a simple dropdown view inspired by Tappy
 
 ## Media
 
@@ -264,3 +274,4 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [novocaine](https://github.com/alexbw/novocaine) - An analgesic for high-performance audio on iOS and OSX.
 - [WAVideoBox](https://github.com/CoderHenry66/WAVideoBox) - 秒级! 三行代码实现iOS视频压缩、变速、混音、合并、GIF水印、旋转、换音、裁剪 ! 支持不同分辩率，支持你能想到的各种混合操作!
+- [MCamera](https://github.com/MaximAlien/MCamera) - CameraViewController which allows to take photos, set filters, peform image blurring and more
