@@ -216,6 +216,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) - One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) - iOS自定义导航栏-导航栏联动
 - [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) - 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
+- [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+
 - [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser) - 微信 和 微博 图片浏览器, UIViewControlelr + CollectionView , 完美适配 iPhone 以及 各种 iPad ,屏幕旋转功能 , 适配SDWebImage 5.0
 - [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) - iOS 图片浏览器 (支持视频) / image browser (support video)
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
@@ -234,6 +235,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页
 - [AAChartKit](https://github.com/AAChartModel/AAChartKit) - An elegant and friendly chart library for iOS
 - [WMDragView](https://github.com/zhengwenming/WMDragView) - WMDragView致力于让任意View都可以自由悬浮拖曳（可拖动，悬浮按钮），类似于iOS的AssistiveTouch效果，微信浮窗
+- [LEEAlert](https://github.com/lixiang1994/LEEAlert) - 优雅的可自定义 Alert ActionSheet
 
 ## UI Effects
 
