@@ -30,6 +30,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 - [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 - [iOS 资源大全中文版](https://github.com/duzhi5368/AwesomeAllInOne/wiki/iOS-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88)
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 一个翻译优质互联网技术文章的社区
 - [Flat UI Colors](https://flatuicolors.com) - 280 handpicked colors ready for COPY & PASTE
 
