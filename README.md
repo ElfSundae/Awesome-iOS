@@ -57,6 +57,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TimeProfiler](https://github.com/maniackk/TimeProfiler) - Recording all OC methods in the main thread takes time
 - [XXShield](https://github.com/ValiantCat/XXShield) - It's a library can avoid some crash in iOS project written by Objective-C.
 - [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime.
+- [Mango](https://github.com/YPLiang19/Mango) - MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS App hotfix SDK.
 - [ANYMethodLog](https://github.com/qhd/ANYMethodLog) - Log any method call of object in Objective-C 打印 Objective-C 对象中的任何方法
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
