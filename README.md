@@ -61,6 +61,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ANYMethodLog](https://github.com/qhd/ANYMethodLog) - Log any method call of object in Objective-C 打印 Objective-C 对象中的任何方法
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
+- [iOSMixProject](https://github.com/JourneyYoung/iOSMixProject) - 马甲包混淆工程
 
 ## Foundation
 
@@ -84,18 +85,19 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
 - [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions
 - [YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler) - iOS task scheduler, reduce the burden of CPU and memory. / iOS 任务调度器，为 CPU 和内存减负（用于性能优化）
+- [coobjc](https://github.com/alibaba/coobjc) - coobjc provides coroutine support for Objective-C and Swift.
 
 ## Database, ORM, Cache
 
-- [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
-- [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours.
-- [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat.
+- [protobuf](https://developers.google.com/protocol-buffers/) - Protocol Buffers - Google's data interchange format.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model.
+- [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
+- [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat.
+- [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours.
 - [WCDB](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
 - [JQFMDB](https://github.com/gaojunquan/JQFMDB) - FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
 - [CTPersistance](https://github.com/casatwy/CTPersistance) - iOS Database Persistence Layer with SQLite
-- [protobuf](https://developers.google.com/protocol-buffers/) - Protocol Buffers - Google's data interchange format.
 - [SAMKeychain](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 - [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
 
@@ -113,6 +115,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Data/File Archive & Unarchive
 
+- [FastCoding](https://github.com/nicklockwood/FastCoding) - A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON
 - [SSZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
 - [GZIP](https://github.com/nicklockwood/GZIP) - A simple NSData category for gzipping/unzipping data in iOS and Mac OS.
 - [LzmaSDKObjC](https://github.com/OlehKulykov/LzmaSDKObjC) - Lzma SDK for Swift and Objective-C ( iOS & MacOS ) based on extended functionality of the C++ LZMA SDK code.
@@ -246,6 +249,10 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [WMDragView](https://github.com/zhengwenming/WMDragView) - WMDragView致力于让任意View都可以自由悬浮拖曳（可拖动，悬浮按钮），类似于iOS的AssistiveTouch效果，微信浮窗
 - [LEEAlert](https://github.com/lixiang1994/LEEAlert) - 优雅的可自定义 Alert ActionSheet
 - [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner) - An iOS activity spinner modeled after Google's Material Design Spinner
+- [XLCardSwitch](https://github.com/mengxianliang/XLCardSwitch) - 利用余弦函数特性实现可以居中放大的图片浏览工具
+- [XLFoldClock](https://github.com/mengxianliang/XLFoldClock) - 翻页时钟
+- [XLPaymentHUD](https://github.com/mengxianliang/XLPaymentHUD) - 支付宝支付动画
+- [IIGuideViewController](https://github.com/whatsbug/IIGuideViewController) - A Library for making animated tutorials inside your app (新手引导、新手教程、功能介绍、功能引导)
 
 ## UI Effects
 
@@ -257,7 +264,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - A gallery app of custom animated transitions for iOS.
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
 - [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) - iOS自定义交互式转场动画-仿微信图片浏览器转场动画、仿iOS系统相册图片浏览转场动画、仿酷狗转场动画 + 交互式图片浏览器
+- [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 - [SVGAPlayer](https://github.com/yyued/SVGAPlayer-iOS) - Render After Effects / Animate CC (Flash) animations natively.
+- [SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)
 - [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果
 - [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 - [iOS-Modal](https://github.com/xiaopin/iOS-Modal) - iOS 模态窗口，内置类似淘宝添加购物车的模态视图动画，内部使用 iOS8 推出的UIPresentationController来实现模态窗口功能。
