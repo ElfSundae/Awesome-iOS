@@ -177,6 +177,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states using POP
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Beautiful, highly customizable, animated checkboxes for iOS.
+- [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - Another attributed label using CoreText
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
