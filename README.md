@@ -182,6 +182,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
+- [RollingNotice](https://github.com/maltsugar/RollingNotice) - 滚动公告、轮播广告，支持灵活自定义cell
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 - [GrowTextView](https://github.com/jalyResource/GrowTextView) - 一个比较完美的高度自适应输入框
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) - UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
@@ -261,6 +262,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 - [HHTransition](https://github.com/yuwind/HHTransition) - 主流转场动画，无侵入，API简单易用。
 - [TLTransitions](https://github.com/LoongerTao/TLTransitions) - 快速实现控制器的转场和View的快速popover显示，并支持自定义动画、手势退场
+- [XLBubbleTransition](https://github.com/mengxianliang/XLBubbleTransition) - iOS ViewController间切换的转场动画
 - [NNNavigationBar](https://github.com/amisare/NNNavigationBar) - 实现导航条背景渐变过渡动画的轻量级框架
 - [BBGestureBack](https://github.com/Bonway/BBGestureBack) - Full screen return gesture（全屏手势返回 滑动返回 pop 动画效果）类淘宝、京东等全屏滑动返回效果
 - [TABAnimated](https://github.com/tigerAndBull/TABAnimated) - A skeleton screen framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持自定制动画。)
