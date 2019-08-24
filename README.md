@@ -112,6 +112,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
 - [Mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component developed by WeChat.
 - [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
+- [NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework
 
 ## Data/File Archive & Unarchive
 
@@ -189,6 +190,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PPNumberButton](https://github.com/jkpang/PPNumberButton) - iOS中一款高度可定制性商品计数按钮(京东/淘宝/饿了么/美团外卖/百度外卖样式)
 - [InputKit](https://github.com/tingxins/InputKit) - InputKit, an Elegant Kit to limits your input text, inspired by BlocksKit, written in both Objective-C & ⚡️Swift.
 - [AnimatedField](https://github.com/alberdev/AnimatedField) - Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
+- [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) - UILabel replacement with fine-grain appear/disappear animation
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) - A custom UIView useful to represent progress in discrete steps.
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - Autoscroll Banner. 无限循环图片、文字轮播器。
 - [PSCarouselView](https://github.com/saildog/PSCarouselView) - A drop-in carousel view. Most of Apps put it in their first screen.
