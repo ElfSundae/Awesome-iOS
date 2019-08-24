@@ -148,6 +148,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 - [NIM_iOS_UIKit](https://github.com/netease-im/NIM_iOS_UIKit) - 网易云信 iOS UI 组件，提供聊天界面，文本消息，图片消息，语音消息，视频消息，地理位置消息，自定义消息（阅后即焚）等消息示例
 - [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。
+- [Signal-iOS](https://github.com/signalapp/Signal-iOS) - Signal is a free, open source, messaging app for simple private communication with friends.
 - [Wildfirechat Chat](https://github.com/wildfirechat/ios-chat) - 全开源的即时通讯(野火IM)系统 高仿微信
 - [TLChat](https://github.com/tbl00c/TLChat) - 高仿微信，iOSAppTemplate代码重构。此版本TLChat基于TLKit、 ZZFLEX实现.
 - [YHFlutterAdapter](https://github.com/jiisd/YHFlutterAdapter) - 三行代码组件化集成 Flutter！可用于已有 iOS 项目，对原工程无侵入，无需更改原项目配置，集成后可直接以组件形式开发 Flutter 业务。
@@ -285,6 +286,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) - 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
 - [PBJVision](https://github.com/piemonte/PBJVision) -  iOS Media Capture – features touch-to-record video, slow motion, and photography
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) - A fancy Obj-C wrapper for Cocoa System Sound Services
 - [GoPlay](https://github.com/dKingbin/GoPlay) - GoPlay is a media player framework for iOS. Based on FFmpeg and OpenGL ES 2.0. support all formats and custom your own filters by GLSL.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [novocaine](https://github.com/alexbw/novocaine) - An analgesic for high-performance audio on iOS and OSX.
