@@ -29,6 +29,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 - [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+- [iOS-Monitor-Platform](https://github.com/aozhimin/iOS-Monitor-Platform) - iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理
 - [iOS 资源大全中文版](https://github.com/duzhi5368/AwesomeAllInOne/wiki/iOS-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 一个翻译优质互联网技术文章的社区
@@ -43,6 +44,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [JSDebugger](https://github.com/SatanWoo/JSDebugger) - JavaScript-Based Debugger For Inspecting Running State Of Your Application
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) - In-App debug console for your UIWebView & WKWebView
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
+- [Uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
 - [Space Commander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C as a team without even trying.
 - [OCLint](http://oclint.org) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 - [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
