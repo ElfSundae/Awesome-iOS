@@ -73,6 +73,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing.
 - [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 - [NullSafe](https://github.com/nicklockwood/NullSafe) - NullSafe is a simple category on NSNull that returns nil for unrecognised messages instead of throwing an exception
+- [fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) - A polite and unified way of asking for permission on iOS.
