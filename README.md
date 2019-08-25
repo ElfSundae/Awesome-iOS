@@ -214,6 +214,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) - 特斯拉组件、QQ联系人布局、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图
 - [WMPageController](https://github.com/wangmchn/WMPageController) - An easy solution to page controllers like NetEase News
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - 类似微博、抖音、网易云等个人详情页滑动嵌套效果
+- [VTMagic](https://github.com/tianzhuo112/VTMagic) - A page container library for iOS
 - [FFPopup](https://github.com/JonyFang/FFPopup) - Presenting custom views as a popup in iOS.
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) - 快速集成 popupMenu
 - [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu) - FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use
