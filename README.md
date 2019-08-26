@@ -292,6 +292,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS) - 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) - 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
 - [PBJVision](https://github.com/piemonte/PBJVision) -  iOS Media Capture – features touch-to-record video, slow motion, and photography
+- [SCRecorder](https://github.com/rFlex/SCRecorder) - iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) - A fancy Obj-C wrapper for Cocoa System Sound Services
 - [GoPlay](https://github.com/dKingbin/GoPlay) - GoPlay is a media player framework for iOS. Based on FFmpeg and OpenGL ES 2.0. support all formats and custom your own filters by GLSL.
