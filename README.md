@@ -296,6 +296,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) - A fancy Obj-C wrapper for Cocoa System Sound Services
 - [GoPlay](https://github.com/dKingbin/GoPlay) - GoPlay is a media player framework for iOS. Based on FFmpeg and OpenGL ES 2.0. support all formats and custom your own filters by GLSL.
+- [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - A powerful media cache framework.
 - [novocaine](https://github.com/alexbw/novocaine) - An analgesic for high-performance audio on iOS and OSX.
 - [WAVideoBox](https://github.com/CoderHenry66/WAVideoBox) - 秒级! 三行代码实现iOS视频压缩、变速、混音、合并、GIF水印、旋转、换音、裁剪 ! 支持不同分辩率，支持你能想到的各种混合操作!
 - [MCamera](https://github.com/MaximAlien/MCamera) - CameraViewController which allows to take photos, set filters, peform image blurring and more
