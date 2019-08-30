@@ -224,6 +224,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 - [HWPanModal](https://github.com/HeathWang/HWPanModal) - presents controller from bottom and drag to dismiss, high customize. 实现任意形式的底部弹框；知乎、抖音弹出评论效果。
 - [HWPopController](https://github.com/HeathWang/HWPopController) - Popup UIViewController with multiple animations
+- [HHHorizontalPagingView](https://github.com/Huanhoo/HHHorizontalPagingView) - 一个实现上下滚动时菜单悬停在顶端，并且可以左右滑动切换的视图
 - [DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) - DOPDropDownMenu 添加双列表 优化版 新增图片支持
 - [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - Cocoa UI component for group or private chat bubbles with text, images and audio support
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
