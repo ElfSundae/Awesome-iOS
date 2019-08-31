@@ -151,6 +151,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 - [NIM_iOS_UIKit](https://github.com/netease-im/NIM_iOS_UIKit) - 网易云信 iOS UI 组件，提供聊天界面，文本消息，图片消息，语音消息，视频消息，地理位置消息，自定义消息（阅后即焚）等消息示例
 - [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。
+- [PPStickerKeyboard](https://github.com/VernonVan/PPStickerKeyboard) - iOS 表情键盘
 - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - Signal is a free, open source, messaging app for simple private communication with friends.
 - [Wildfirechat Chat](https://github.com/wildfirechat/ios-chat) - 全开源的即时通讯(野火IM)系统 高仿微信
 - [TLChat](https://github.com/tbl00c/TLChat) - 高仿微信，iOSAppTemplate代码重构。此版本TLChat基于TLKit、 ZZFLEX实现.
