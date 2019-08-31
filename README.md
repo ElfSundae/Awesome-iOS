@@ -270,6 +270,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## UI Effects
 
+- [Shimmer](https://github.com/facebook/shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [HHTransition](https://github.com/yuwind/HHTransition) - 主流转场动画，无侵入，API简单易用。
 - [TLTransitions](https://github.com/LoongerTao/TLTransitions) - 快速实现控制器的转场和View的快速popover显示，并支持自定义动画、手势退场
 - [XLBubbleTransition](https://github.com/mengxianliang/XLBubbleTransition) - iOS ViewController间切换的转场动画
