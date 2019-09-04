@@ -297,6 +297,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KSYLive_iOS](https://github.com/ksvc/KSYLive_iOS) - 金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP)
 - [KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS) - 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) - 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
+- [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)
 - [PBJVision](https://github.com/piemonte/PBJVision) -  iOS Media Capture – features touch-to-record video, slow motion, and photography
 - [SCRecorder](https://github.com/rFlex/SCRecorder) - iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
