@@ -200,6 +200,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [AnimatedField](https://github.com/alberdev/AnimatedField) - Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS
 - [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) - UILabel replacement with fine-grain appear/disappear animation
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) - A custom UIView useful to represent progress in discrete steps.
+- [ZZCircleProgress](https://github.com/zhouxing5311/ZZCircleProgress) - CAAnimation实现的高度可定制化环形进度条
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - Autoscroll Banner. 无限循环图片、文字轮播器。
 - [PSCarouselView](https://github.com/saildog/PSCarouselView) - A drop-in carousel view. Most of Apps put it in their first screen.
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
