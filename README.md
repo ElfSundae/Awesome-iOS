@@ -63,6 +63,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ANYMethodLog](https://github.com/qhd/ANYMethodLog) - Log any method call of object in Objective-C 打印 Objective-C 对象中的任何方法
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
+- [MessageThrottle](https://github.com/yulingtianxia/MessageThrottle) - A lightweight Objective-C message throttle and debounce library.
 - [iOSMixProject](https://github.com/JourneyYoung/iOSMixProject) - 马甲包混淆工程
 
 ## Foundation
