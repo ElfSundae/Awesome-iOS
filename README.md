@@ -71,8 +71,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ESFramework](https://github.com/ElfSundae/ESFramework) - ESFramework is an efficient, small framework for iOS, macOS, watchOS, and tvOS.
 - [Nimbus](https://github.com/jverkoey/nimbus) - Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
 - [YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
-- [RSSwizzle](https://github.com/rabovik/RSSwizzle) - Safe Method Swizzling.
-- [JRSwizzle](https://github.com/rentzsch/jrswizzle) - one-stop-shop for all your method swizzling needs
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
 - [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol!
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing.
