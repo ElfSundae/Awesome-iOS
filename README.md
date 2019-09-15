@@ -82,6 +82,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) - A polite and unified way of asking for permission on iOS.
 - [TDTouchID](https://github.com/greezi/TDTouchID) - TDTouchID是一个封装好的指纹验证库,可以用来做iOSAPP的登录/支付等验证。
 - [LocationManager](https://github.com/intuit/LocationManager) - Easily get the device's current location on iOS.
+- [MGJRouter](https://github.com/meili/MGJRouter) - 一个高效/灵活的 iOS URL Router
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
 - [JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API
 - [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
