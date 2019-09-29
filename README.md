@@ -115,6 +115,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category.
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
 - [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
+- [PocketSocket](https://github.com/zwopple/PocketSocket) - Objective-C websocket library for building things that work in realtime on iOS and OS X.
 - [Mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component developed by WeChat.
 - [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
 - [NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework
