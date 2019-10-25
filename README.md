@@ -42,6 +42,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [LLDebugTool](https://github.com/HDB-Li/LLDebugTool) - LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.
 - [JSDebugger](https://github.com/SatanWoo/JSDebugger) - JavaScript-Based Debugger For Inspecting Running State Of Your Application
+- [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) - In-App debug console for your UIWebView & WKWebView
 - [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 - [Uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
@@ -224,6 +225,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - 类似微博、抖音、网易云等个人详情页滑动嵌套效果
 - [VTMagic](https://github.com/tianzhuo112/VTMagic) - A page container library for iOS
 - [SPPageMenu](https://github.com/SPStore/SPPageMenu) - 分页菜单，功能非常齐全，满足绝大多数APP
+- [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - General-purpose contextual cards for iOS
 - [FFPopup](https://github.com/JonyFang/FFPopup) - Presenting custom views as a popup in iOS.
 - [YBPopupMenu](https://github.com/lyb5834/YBPopupMenu) - 快速集成 popupMenu
 - [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu) - FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use
