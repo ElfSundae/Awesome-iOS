@@ -104,6 +104,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
 - [JQFMDB](https://github.com/gaojunquan/JQFMDB) - FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
 - [CTPersistance](https://github.com/casatwy/CTPersistance) - iOS Database Persistence Layer with SQLite
+- [LKDBHelper](https://github.com/li6185377/LKDBHelper-SQLite-ORM) - 全自动的插入,查询,更新,删除， an automatic database operation thread-safe and not afraid of recursive deadlock
+- [SQLitePersistentObjects](https://github.com/ElfSundae/SQLitePersistentObjects) - Persistent Objects for Cocoa & Cocoa Touch that using SQLite.
 - [SAMKeychain](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 - [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
 
