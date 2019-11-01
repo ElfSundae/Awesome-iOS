@@ -69,7 +69,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Foundation
 
-- [ESFramework](https://github.com/ElfSundae/ESFramework) - ESFramework is an efficient, small framework for iOS, macOS, watchOS, and tvOS.
+- [ESFramework](https://github.com/ElfSundae/ESFramework) - ESFramework is an efficient, lightweight foundational framework for iOS, macOS, watchOS, and tvOS.
 - [Nimbus](https://github.com/jverkoey/nimbus) - Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
 - [YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework.
