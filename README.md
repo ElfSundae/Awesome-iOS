@@ -95,6 +95,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler) - iOS task scheduler, reduce the burden of CPU and memory. / iOS 任务调度器，为 CPU 和内存减负（用于性能优化）
 - [coobjc](https://github.com/alibaba/coobjc) - coobjc provides coroutine support for Objective-C and Swift.
 - [BMChineseSort](https://github.com/Baymax0/BMChineseSort) - 列表中文分组排序工具，支持字符串数组&模型数组 （支持swift）
+- [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
 
 ## Test
 
