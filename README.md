@@ -69,6 +69,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
 - [MessageThrottle](https://github.com/yulingtianxia/MessageThrottle) - A lightweight Objective-C message throttle and debounce library.
 - [iOSMixProject](https://github.com/JourneyYoung/iOSMixProject) - 马甲包混淆工程
+- [WHC_Scan](https://github.com/netyouli/WHC_Scan) - 高效强大扫描分析iOS和Android项目里没有使用的类Mac开源工具，清理项目垃圾类，让项目结构干净清爽
 
 ## Foundation
 
