@@ -89,6 +89,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MGJRouter](https://github.com/meili/MGJRouter) - 一个高效/灵活的 iOS URL Router
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - Interface-oriented router for discovering modules, and injecting dependencies with protocol in Objective-C and Swift.
 - [JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API
+- [QTEventBus](https://github.com/LeoMobileDeveloper/QTEventBus) - iOS事件总线，支持AppDelegate解耦，支持基于响应链的局部总线
 - [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 - [BeeHive](https://github.com/alibaba/BeeHive) - 🐝 BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
