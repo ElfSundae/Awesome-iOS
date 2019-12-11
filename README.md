@@ -39,9 +39,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 ## Tools
 
 - [fastlane](https://fastlane.tools) - The easiest way to automate building and releasing your iOS and Android apps.
-- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
-- [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A command line tool written in Swift that generates your Xcode project using your folder structure and a project spec.
+- [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects
+- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
 - [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. https://buck.build
 - [Chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [Fui](https://github.com/dblock/fui) - Find unused Objective-C imports.
