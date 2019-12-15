@@ -39,6 +39,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 ## Tools
 
 - [fastlane](https://fastlane.tools) - The easiest way to automate building and releasing your iOS and Android apps.
+- [Appium](https://github.com/appium/appium) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps.
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A command line tool written in Swift that generates your Xcode project using your folder structure and a project spec.
 - [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
@@ -210,6 +211,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Beautiful, highly customizable, animated checkboxes for iOS.
 - [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - Another attributed label using CoreText
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
+- [YBAttributeTextTapAction](https://github.com/lyb5834/YBAttributeTextTapAction) - 一行代码添加文本点击事件/a fast way to implement click event text
 - [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
@@ -226,6 +228,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) - A custom UIView useful to represent progress in discrete steps.
 - [ZZCircleProgress](https://github.com/zhouxing5311/ZZCircleProgress) - CAAnimation实现的高度可定制化环形进度条
 - [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - Autoscroll Banner. 无限循环图片、文字轮播器。
+- [NewPagedFlowView](https://github.com/PageGuo/NewPagedFlowView) - 电影票卡片式无限自动轮播图
 - [PSCarouselView](https://github.com/saildog/PSCarouselView) - A drop-in carousel view. Most of Apps put it in their first screen.
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 - [JFCitySelector](https://github.com/zhifenx/JFCitySelector) - 轻量、灵活、可自定义的三级城市选择器
@@ -255,6 +258,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [HWPopController](https://github.com/HeathWang/HWPopController) - Popup UIViewController with multiple animations
 - [HHHorizontalPagingView](https://github.com/Huanhoo/HHHorizontalPagingView) - 一个实现上下滚动时菜单悬停在顶端，并且可以左右滑动切换的视图
 - [DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) - DOPDropDownMenu 添加双列表 优化版 新增图片支持
+- [WMZDropDownMenu](https://github.com/wwmz/WMZDropDownMenu) - 一个能几乎实现所有App各种类型筛选菜单的控件
 - [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - Cocoa UI component for group or private chat bubbles with text, images and audio support
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [Context-Menu](https://github.com/Yalantis/Context-Menu.iOS) - You can easily add awesome animated context menu to your app.
