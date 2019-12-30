@@ -277,6 +277,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) - iOS 图片浏览器 (支持视频) / image browser (support video)
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
 - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) - A beautiful photo browser with interactive dismissal animation.一个小而美的图片浏览器。
+- [GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser) - iOS仿微信、今日头条等图片浏览器
 - [PhotoBrowser](https://github.com/cuzv/PhotoBrowser) - PhotoBrowser is a light weight photo browser, like the wechat, weibo image viewer.
 - [PYPhotoBrowser](https://github.com/ko1o/PYPhotoBrowser) - An easy way to browse photo(image) for iOS.
 - [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - 照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）
