@@ -86,6 +86,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [NullSafe](https://github.com/nicklockwood/NullSafe) - NullSafe is a simple category on NSNull that returns nil for unrecognised messages instead of throwing an exception
 - [fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
+- [KKJSBridge](https://github.com/karosLi/KKJSBridge) - 一站式解决 WKWebView 支持离线包，Ajax 请求，表单请求和 Cookie 同步的问题 (基于 Ajax Hook 和 Cookie Hook)
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) - A polite and unified way of asking for permission on iOS.
 - [TDTouchID](https://github.com/greezi/TDTouchID) - TDTouchID是一个封装好的指纹验证库,可以用来做iOSAPP的登录/支付等验证。
