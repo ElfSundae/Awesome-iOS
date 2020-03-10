@@ -236,6 +236,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet) - A Custom&Powerful Action Sheet For iOS. 一个 ActionSheet 满足所有样式！超高自由度的可定制！
 - [LCActionSheet](https://github.com/iTofu/LCActionSheet) - 一款简约而不失强大的 ActionSheet，微博、微信和 QQ 都采用了极其类似的样式，完全支持 Swift。
 - [SPAlertController](https://github.com/SPStore/SPAlertController) - 提醒对话框，风格和微信原生几乎零误差。
+- [LEEAlert](https://github.com/lixiang1994/LEEAlert) - 优雅的可自定义 Alert ActionSheet
+- [FWPopupView](https://github.com/choiceyou/FWPopupView) - 弹窗控件：支持AlertView、Sheet、自定义视图的PopupView。Sheet仿微信样式。
 - [RMActionController](https://github.com/CooperRS/RMActionController) - This is an iOS control for presenting any UIView in an UIAlertController like manner
 - [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad.
 - [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
@@ -276,6 +278,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+
 - [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser) - 微信 和 微博 图片浏览器, UIViewControlelr + CollectionView , 完美适配 iPhone 以及 各种 iPad ,屏幕旋转功能 , 适配SDWebImage 5.0
 - [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) - iOS 图片浏览器 (支持视频) / image browser (support video)
+- [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - 方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - IDMPhotoBrowser is a new implementation based on MWPhotoBrowser.
 - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser) - A beautiful photo browser with interactive dismissal animation.一个小而美的图片浏览器。
 - [GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser) - iOS仿微信、今日头条等图片浏览器
@@ -293,7 +296,6 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页
 - [AAChartKit](https://github.com/AAChartModel/AAChartKit) - An elegant and friendly chart library for iOS
 - [WMDragView](https://github.com/zhengwenming/WMDragView) - WMDragView致力于让任意View都可以自由悬浮拖曳（可拖动，悬浮按钮），类似于iOS的AssistiveTouch效果，微信浮窗
-- [LEEAlert](https://github.com/lixiang1994/LEEAlert) - 优雅的可自定义 Alert ActionSheet
 - [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner) - An iOS activity spinner modeled after Google's Material Design Spinner
 - [XLCardSwitch](https://github.com/mengxianliang/XLCardSwitch) - 利用余弦函数特性实现可以居中放大的图片浏览工具
 - [XLFoldClock](https://github.com/mengxianliang/XLFoldClock) - 翻页时钟
