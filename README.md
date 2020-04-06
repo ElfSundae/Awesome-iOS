@@ -338,6 +338,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A simple, Snapchat-style iOS Camera framework for easy photo and video capture.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [SRGMediaPlayer](https://github.com/SRGSSR/srgmediaplayer-apple) - The SRG Media Player library provides a simple way to add universal audio / video playback support to any application.
+- [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media play framework for iOS, macOS, and tvOS.
 - [KSYLive_iOS](https://github.com/ksvc/KSYLive_iOS) - 金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP)
 - [KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS) - 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) - 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
