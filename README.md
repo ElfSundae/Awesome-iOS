@@ -35,6 +35,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 一个翻译优质互联网技术文章的社区
 - [Flat UI Colors](https://flatuicolors.com) - 280 handpicked colors ready for COPY & PASTE
+- [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) - iOS 开发者在面试过程中，常见的一些面试题
 
 ## Tools
 
@@ -72,6 +73,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
 - [MessageThrottle](https://github.com/yulingtianxia/MessageThrottle) - A lightweight Objective-C message throttle and debounce library.
 - [iOSMixProject](https://github.com/JourneyYoung/iOSMixProject) - 马甲包混淆工程
+- [KLGenerateSpamCode](https://github.com/klaus01/KLGenerateSpamCode) - iOS 马甲应用工具：垃圾代码生成器
 - [WHC_Scan](https://github.com/netyouli/WHC_Scan) - 高效强大扫描分析iOS和Android项目里没有使用的类Mac开源工具，清理项目垃圾类，让项目结构干净清爽
 
 ## Foundation
@@ -103,6 +105,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [coobjc](https://github.com/alibaba/coobjc) - coobjc provides coroutine support for Objective-C and Swift.
 - [BMChineseSort](https://github.com/Baymax0/BMChineseSort) - 列表中文分组排序工具，支持字符串数组&模型数组 （支持swift）
 - [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
+- [getClientInfo](https://github.com/PengfeiWang666/iOS-getClientInfo) - iOS中获取各种设备信息ID的方法总结(iPhone 11 已更新)
 
 ## Test
 
@@ -212,6 +215,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Beautiful, highly customizable, animated checkboxes for iOS.
 - [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - Another attributed label using CoreText
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
+- [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) - 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 - [YBAttributeTextTapAction](https://github.com/lyb5834/YBAttributeTextTapAction) - 一行代码添加文本点击事件/a fast way to implement click event text
 - [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
@@ -232,6 +236,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [NewPagedFlowView](https://github.com/PageGuo/NewPagedFlowView) - 电影票卡片式无限自动轮播图
 - [PSCarouselView](https://github.com/saildog/PSCarouselView) - A drop-in carousel view. Most of Apps put it in their first screen.
 - [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
+- [BRPickerView](https://github.com/91renb/BRPickerView) - iOS中常用的选择器组件，主要包括：日期选择器、时间选择器、地址选择器、自定义字符串选择器。高度封装，提供了两种使用方式，支持自定义主题样式，适配深色模式。
 - [JFCitySelector](https://github.com/zhifenx/JFCitySelector) - 轻量、灵活、可自定义的三级城市选择器
 - [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet) - A Custom&Powerful Action Sheet For iOS. 一个 ActionSheet 满足所有样式！超高自由度的可定制！
 - [LCActionSheet](https://github.com/iTofu/LCActionSheet) - 一款简约而不失强大的 ActionSheet，微博、微信和 QQ 都采用了极其类似的样式，完全支持 Swift。
@@ -302,6 +307,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [XLFoldClock](https://github.com/mengxianliang/XLFoldClock) - 翻页时钟
 - [XLPaymentHUD](https://github.com/mengxianliang/XLPaymentHUD) - 支付宝支付动画
 - [IIGuideViewController](https://github.com/whatsbug/IIGuideViewController) - A Library for making animated tutorials inside your app (新手引导、新手教程、功能介绍、功能引导)
+- [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - showing different size tag views in a vertical or horizontal scrollable view. 标签流显示控件，同时支持文字或自定义View
+- [JXBWKWebView](https://github.com/xiubojin/JXBWKWebView) - iOS基于WKWebView的二次封装，功能丰富
 
 ## UI Effects
 
@@ -344,6 +351,9 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PBJVision](https://github.com/piemonte/PBJVision) -  iOS Media Capture – features touch-to-record video, slow motion, and photography
 - [SCRecorder](https://github.com/rFlex/SCRecorder) - iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [SuperPlayer](https://github.com/tencentyun/SuperPlayer_iOS) - 超级播放器是基于腾讯云播放器SDK的播放器，能快速的集成视频信息拉取、横竖屏切换、清晰度选择、弹幕、直播时移等功能。
+- [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit) - PLPlayerKit 是一个适用于 iOS 的音视频播放器 SDK，可高度定制化和二次开发，特色是支持 RTMP, HTTP-FLV 和 HLS 直播流媒体播放。
+- [SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) - 短视频播放器 可接入 ijkplayer aliplayer alivodplayer plplayer
 - [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) - A fancy Obj-C wrapper for Cocoa System Sound Services
 - [GoPlay](https://github.com/dKingbin/GoPlay) - GoPlay is a media player framework for iOS. Based on FFmpeg and OpenGL ES 2.0. support all formats and custom your own filters by GLSL.
 - [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - A powerful media cache framework.
