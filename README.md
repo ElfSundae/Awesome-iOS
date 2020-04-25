@@ -214,6 +214,8 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states using POP
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Beautiful, highly customizable, animated checkboxes for iOS.
 - [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - Another attributed label using CoreText
+- [MPITextKit](https://github.com/meitu/MPITextKit) - Powerful text framework for iOS to display rich text based on TextKit.
+- [STULabel](https://github.com/stephan-tolksdorf/STULabel) - A faster and more flexible label view for iOS
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) - 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 - [YBAttributeTextTapAction](https://github.com/lyb5834/YBAttributeTextTapAction) - 一行代码添加文本点击事件/a fast way to implement click event text
