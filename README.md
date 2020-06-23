@@ -85,6 +85,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol!
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing.
 - [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
+- [ProtocolKit](https://github.com/forkingdog/ProtocolKit) - Protocol extension for Objective-C
 - [NullSafe](https://github.com/nicklockwood/NullSafe) - NullSafe is a simple category on NSNull that returns nil for unrecognised messages instead of throwing an exception
 - [fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
@@ -106,6 +107,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [BMChineseSort](https://github.com/Baymax0/BMChineseSort) - 列表中文分组排序工具，支持字符串数组&模型数组 （支持swift）
 - [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
 - [getClientInfo](https://github.com/PengfeiWang666/iOS-getClientInfo) - iOS中获取各种设备信息ID的方法总结(iPhone 11 已更新)
+- [MotionOrientation](https://github.com/rushairer/MotionOrientation) - An observer to notify the orientation of iOS device changed, using CoreMotion for taking the orientation in 'Orientation Lock'.
 
 ## Test
 
