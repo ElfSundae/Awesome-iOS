@@ -338,6 +338,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Media
 
+- [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A simple, Snapchat-style iOS Camera framework for easy photo and video capture.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
