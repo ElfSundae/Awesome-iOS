@@ -349,10 +349,17 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [KSYDiversityLive_iOS](https://github.com/ksvc/KSYDiversityLive_iOS) - 金山云SDK多样化接入方式，提供直播全链路数据开放，支持第三方连麦、录屏、美颜、贴纸、摄像头等多媒体处理方案提供商接入，共建移动直播大生态。
 - [SRS](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
+- [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - A Core Audio based streaming audio player for iOS and macOS
+- [FreeStreamer](https://github.com/muhku/FreeStreamer) - A low-memory footprint streaming audio player for iOS and OS X
 - [LFLiveKit](https://github.com/17media/LFLiveKit) - LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate
 - [AWLive](https://github.com/hardman/AWLive) - 最简单的iOS 推流代码，视频捕获，软编码(faac，x264)，硬编码（aac，h264），横屏直播，美颜，flv编码，rtmp协议
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - iOS 的手机视频直播，基于开源videocore进行了改进
 - [LFRtmp](https://github.com/liuf1986/LFRtmp) - 一个全开源的纯OC实现的RTMP推流SDK支持AAC、H264、美颜滤镜、AMF编解码。
+- [rtmp-wrapper](https://github.com/minsikzzang/rtmp-wrapper) - librtmp wrapper class for iOS use
+- [HTTPLiveStreaming](https://github.com/whiteblue3/HTTPLiveStreaming) - iOS / Mac OSX H.264 / AAC Hardware Encoding and Streaming over RTP / RTSP using Video Tool Box
+- [re](https://github.com/creytiv/re) - Generic library for real-time communications with async IO support
+- [GStreamer](https://gstreamer.freedesktop.org/) - a flexible, fast and multiplatform multimedia framework.
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)
 - [PBJVision](https://github.com/piemonte/PBJVision) -  iOS Media Capture – features touch-to-record video, slow motion, and photography
 - [SCRecorder](https://github.com/rFlex/SCRecorder) - iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
