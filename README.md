@@ -111,6 +111,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 
 ## Test
 
+- [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 
 ## Database, ORM, Cache
