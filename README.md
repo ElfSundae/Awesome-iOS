@@ -288,6 +288,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) - iOS自定义导航栏-导航栏联动
 - [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) - 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
 - [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+
+- [DZNPhotoPickerController](https://github.com/dzenbot/DZNPhotoPickerController) - A photo search/picker for iOS using popular image providers like 500px, Flickr, Instagram, Giphy, Google & Bing Images
 - [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser) - 微信 和 微博 图片浏览器, UIViewControlelr + CollectionView , 完美适配 iPhone 以及 各种 iPad ,屏幕旋转功能 , 适配SDWebImage 5.0
 - [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) - iOS 图片浏览器 (支持视频) / image browser (support video)
 - [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - 方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化
