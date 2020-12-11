@@ -298,6 +298,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [PhotoBrowser](https://github.com/cuzv/PhotoBrowser) - PhotoBrowser is a light weight photo browser, like the wechat, weibo image viewer.
 - [PYPhotoBrowser](https://github.com/ko1o/PYPhotoBrowser) - An easy way to browse photo(image) for iOS.
 - [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - 照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）
+- [BFRImageViewer](https://github.com/bufferapp/buffer-ios-image-viewer) - A turnkey solution to present images within your iOS app
 - [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) - The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 - [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) - 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically
 - [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - An animated tabBar supported by Lottie with one line of code 一行代码实现 Lottie 动画 TabBar
