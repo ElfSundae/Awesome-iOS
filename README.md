@@ -227,6 +227,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.
 - [UUMarqueeView](https://github.com/iceyouyou/UUMarqueeView) - Customizable marquee view. #Marquee,MarqueeView,跑马灯,滚屏,上翻,左滑,多行,自定义
 - [RollingNotice](https://github.com/maltsugar/RollingNotice) - 滚动公告、轮播广告，支持灵活自定义cell
+- [EBBannerView](https://github.com/pikacode/EBBannerView) - Just 1 line：Show a banner the same as iOS 9~13 Notification, or show a custom view.
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 - [GrowTextView](https://github.com/jalyResource/GrowTextView) - 一个比较完美的高度自适应输入框
 - [SHSPhoneComponent](https://github.com/Serheo/SHSPhoneComponent) - UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns).
