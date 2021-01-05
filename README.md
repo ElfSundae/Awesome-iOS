@@ -319,6 +319,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [IIGuideViewController](https://github.com/whatsbug/IIGuideViewController) - A Library for making animated tutorials inside your app (新手引导、新手教程、功能介绍、功能引导)
 - [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - showing different size tag views in a vertical or horizontal scrollable view. 标签流显示控件，同时支持文字或自定义View
 - [JXBWKWebView](https://github.com/xiubojin/JXBWKWebView) - iOS基于WKWebView的二次封装，功能丰富
+- [LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen) - Solve abnormal issues such as blank iOS startup map, and support dynamic replacement of startup map.
 
 ## UI Effects
 
