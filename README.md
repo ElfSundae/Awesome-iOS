@@ -15,6 +15,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [UI Components](#ui-components)
 - [UI Effects](#ui-effects)
 - [Media](#media)
+- [App](#app)
 
 <!-- /MarkdownTOC -->
 
@@ -380,3 +381,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [WAVideoBox](https://github.com/CoderHenry66/WAVideoBox) - 秒级! 三行代码实现iOS视频压缩、变速、混音、合并、GIF水印、旋转、换音、裁剪 ! 支持不同分辩率，支持你能想到的各种混合操作!
 - [MCamera](https://github.com/MaximAlien/MCamera) - CameraViewController which allows to take photos, set filters, peform image blurring and more
 - [SDAVAssetExportSession](https://github.com/rs/SDAVAssetExportSession) - AVAssetExportSession drop-in replacement with customizable audio&video settings
+
+## App
+
+- [douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) - 抖音 iOS Objective-C 版
