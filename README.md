@@ -287,6 +287,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects.
 - [CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide) - One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！
+- [GKNavigationBar](https://github.com/QuintGao/GKNavigationBar) - GKNavigationBarViewController 的分类实现方式，耦合度底，使用更加便捷
 - [GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController) - iOS自定义导航栏-导航栏联动
 - [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) - 照片/图片选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、浏览网络图片功能
 - [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+
