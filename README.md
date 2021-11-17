@@ -322,6 +322,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - showing different size tag views in a vertical or horizontal scrollable view. 标签流显示控件，同时支持文字或自定义View
 - [JXBWKWebView](https://github.com/xiubojin/JXBWKWebView) - iOS基于WKWebView的二次封装，功能丰富
 - [LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen) - Solve abnormal issues such as blank iOS startup map, and support dynamic replacement of startup map.
+- [TTCTool](https://github.com/tangtiancheng/DouYinComment) - DouYinComment, 抖音视频转场动画, 评论手势拖拽效果，多页面嵌套列表分页滚动，HeaderView悬浮
 
 ## UI Effects
 
