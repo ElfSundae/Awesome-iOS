@@ -2,22 +2,18 @@
 
 A curated list of most common & awesome iOS frameworks, libraries, tools, components and much more.
 
-<!-- MarkdownTOC -->
-
 - [Websites](#websites)
 - [Tools](#tools)
 - [Foundation](#foundation)
 - [Test](#test)
 - [Database, ORM, Cache](#database-orm-cache)
 - [Networking](#networking)
-- [Data/File Archive & Unarchive](#datafile-archive--unarchive)
+- [Data/File Archive \& Unarchive](#datafile-archive--unarchive)
 - [UI Frameworks](#ui-frameworks)
 - [UI Components](#ui-components)
 - [UI Effects](#ui-effects)
 - [Media](#media)
 - [App](#app)
-
-<!-- /MarkdownTOC -->
 
 ## Websites
 
@@ -76,6 +72,7 @@ A curated list of most common & awesome iOS frameworks, libraries, tools, compon
 - [iOSMixProject](https://github.com/JourneyYoung/iOSMixProject) - 马甲包混淆工程
 - [KLGenerateSpamCode](https://github.com/klaus01/KLGenerateSpamCode) - iOS 马甲应用工具：垃圾代码生成器
 - [WHC_Scan](https://github.com/netyouli/WHC_Scan) - 高效强大扫描分析iOS和Android项目里没有使用的类Mac开源工具，清理项目垃圾类，让项目结构干净清爽
+- [WBBlades](https://github.com/wuba/WBBlades) - 基于Mach-O解析技术的包大小占比分析、基于反汇编的Objective-C & Swift无用代码（冗余类）检测、点对点崩溃解析
 
 ## Foundation
 
